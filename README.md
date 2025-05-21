@@ -33,8 +33,7 @@ This project demonstrates how basic banking operations can be simulated using **
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/atm-cli-app.git
-cd atm-cli-app
+git clone [https://github.com/farichin77/atm-simulator.git]
 ```
 
 ### 2. Install dependencies
